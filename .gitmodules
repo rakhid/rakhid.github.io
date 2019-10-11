@@ -1,0 +1,6 @@
+[submodule "themes/refresh"]
+	path = themes/refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
