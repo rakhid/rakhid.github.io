@@ -4,3 +4,12 @@
 [submodule "themes/zen"]
 	path = themes/zen
 	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/timer"]
+	path = themes/timer
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "hugo/themes/timer"]
+	path = hugo/themes/timer
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "hugo/themes/hugo-initio"]
+	path = hugo/themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
