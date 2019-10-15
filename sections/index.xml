@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on DIVYA RAKHIANI</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on DIVYA RAKHIANI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WHO IS DIVYA!</title>
+      <link>/sections/simple-values/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/simple-values/</guid>
+      <description>Divya Rakhiani has more than 8 years of experience in Quality Assurance working in a startup like Beanworks, Service companies like Infosys and Thoughtworks and Product companies like Dell EMC. She currently heads the Quality Engineering department at a startup called Beanworks that specializes in automating the tedious and paper-heavy accounting process. It’s rated the 13th best startup in the Vancouver tech market. Divya sees herself today as a new immigrant to Canada and is building her career helping QA teams to use technologies like UI automation using cypress/selenium, test stabilization pipelines, and CI/CD for each code deployment.</description>
+    </item>
+    
+    <item>
+      <title>WORK EXPERIENCE</title>
+      <link>/sections/simple-choices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/simple-choices/</guid>
+      <description>#BeanWorks July 2019 -Present
+#ThoughtWorks August 2016 - June 2019
+#Dell EMC November 2013 - August 2016
+#Infosys October 2011 - October 2013</description>
+    </item>
+    
+    <item>
+      <title>SPEAKING EXPERIENCE</title>
+      <link>/sections/simple-people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/simple-people/</guid>
+      <description>#XCONF September 2016
+Topic: Let&amp;rsquo;s implement test pyramid
+Speakers: Divya Rakhiani and Hanika Chauhan
+Talk summary :
+#VodQa,Gurgaon,May 2018
+Topic: Test strategy with Micro services
+Speakers: Divya Rakhiani and Ishaan Madaan
+Talk summary :
+#WomenInTechnology meetup,Gurgaon,December 2018
+Topic: Introduction to Docker in Microservices and Deployment in cloud
+Speakers: Divya Rakhiani and Juhi Jariwala
+Talk summary :
+#VodQa,Gurgaon,March 2019
+Topic: UI automation using Taiko
+Speakers: Divya Rakhiani and Paramjeet Singh
+Talk summary :</description>
+    </item>
+    
+    <item>
+      <title>WHAT I WISH TO DO!</title>
+      <link>/sections/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/simple/</guid>
+      <description>Speak at an International conference.</description>
+    </item>
+    
+  </channel>
+</rss>

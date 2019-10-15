@@ -13,3 +13,12 @@
 [submodule "hugo/themes/hugo-initio"]
 	path = hugo/themes/hugo-initio
 	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "themes/timer-hugo"]
+	path = themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "hugo/themes/timer-hugo"]
+	path = hugo/themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "hugo/themes/hugo-terrassa-theme"]
+	path = hugo/themes/hugo-terrassa-theme
+	url = https://github.com/danielkvist/hugo-terrassa-theme.git
