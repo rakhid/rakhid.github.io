@@ -30,7 +30,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true
-    action = "https://formspree.io/rakhiani.d@gmail.com"
+    action = "https://formspree.io/mpvblenm"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"
@@ -50,8 +50,8 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "divyarakhiani7@gmail.com"
-    phone = "xxx xxx xxxx"
+    email = "rakhiani.d@gmail.com"
+    phone = "+1 (778) 814 7120"
     skype = "Divya.rakhiani1"
     address = "Vancouver"
 
