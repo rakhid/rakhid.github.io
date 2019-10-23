@@ -5,18 +5,20 @@
     <link>/</link>
     <description>Recent content in Home on DIVYA RAKHIANI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Dec 2018 22:32:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 22:34:04 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>WHO IS DIVYA!</title>
+      <title>WHO AM I ?</title>
       <link>/sections/simple-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-values/</guid>
-      <description>Divya Rakhiani has more than 8 years of experience in Quality Assurance working in a startup like Beanworks, Service companies like Infosys and Thoughtworks and Product companies like Dell EMC. She currently heads the Quality Engineering department at a startup called Beanworks that specializes in automating the tedious and paper-heavy accounting process. It’s rated the 13th best startup in the Vancouver tech market. Divya sees herself today as a new immigrant to Canada and is building her career helping QA teams to use technologies like UI automation using cypress/selenium, test stabilization pipelines, and CI/CD for each code deployment.</description>
+      <description>Divya is an Agile enthusiast, technical tester and a teacher at heart!
+1.) Inception expert – Divya can facilitate workshops to help build product canvas by defining user journeys and personas. She has experience collaborating with UX Designers, Developers and Business Analysts on such workshops.
+2.) Industry Experience – Divya is a Tester with 8+ years of industry experience working in an Agile environment. She has hands-on experience in all stages of software testing life cycle from the White box, Black box, Automation testing to Regression and Usability testing.</description>
     </item>
     
     <item>
@@ -25,10 +27,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-choices/</guid>
-      <description>#BeanWorks July 2019 -Present
-#ThoughtWorks August 2016 - June 2019
-#Dell EMC November 2013 - August 2016
-#Infosys October 2011 - October 2013</description>
+      <description> BEANWORKS , Senior Lead QA Engineer July 2019 -Present THOUGHTWORKS , Senior Consultant August 2016 - June 2019 DELL EMC , Software Quality Engineer November 2013 - August 2016 INFOSYS , Systems Engineer October 2011 - October 2013 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/simple-people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/simple-people/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,78 +45,35 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Divya Rakhiani is Senior Lead SDET at a startup called Beanworks.Before this, She was a Senior consultant at Thoughtworks.
-Speaking of work, she has been doing it for good 8 years “We are confident about what we are delivering because Divya has QA-ed it “,Is a general comment by my fellow developer peers. #humbleBrag
-With experience of testing, in various domains such as storage, travel, accounting and retail She is passionate about community, collaboration, agile practices and attention to detail.</description>
+      <description>Divya Rakhiani has more than 8 years of experience in Quality Assurance working in a startup like Beanworks, Service companies like Infosys and Thoughtworks and Product companies like Dell EMC. She currently heads the Quality Engineering department at a startup called Beanworks that specializes in automating the tedious and paper-heavy accounting process. It’s rated the 13th best startup in the Vancouver tech market. Divya sees herself today as a new immigrant to Canada and is building her career helping QA teams to use technologies like UI automation using cypress/selenium, test stabilization pipelines, and CI/CD for each code deployment.</description>
     </item>
     
     <item>
-      <title>SPEAKING EXPERIENCE</title>
-      <link>/sections/simple-people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/simple-people/</guid>
-      <description>#XCONF September 2016
-Topic: Let&amp;rsquo;s implement test pyramid
-Speakers: Divya Rakhiani and Hanika Chauhan
-Talk summary :
-#VodQa,Gurgaon,May 2018
-Topic: Test strategy with Micro services
-Speakers: Divya Rakhiani and Ishaan Madaan
-Talk summary :
-#WomenInTechnology meetup,Gurgaon,December 2018
-Topic: Introduction to Docker in Microservices and Deployment in cloud
-Speakers: Divya Rakhiani and Juhi Jariwala
-Talk summary :
-#VodQa,Gurgaon,March 2019
-Topic: UI automation using Taiko
-Speakers: Divya Rakhiani and Paramjeet Singh
-Talk summary :</description>
-    </item>
-    
-    <item>
-      <title>WHAT I WISH TO DO!</title>
+      <title>WHAT I WISH TO DO?</title>
       <link>/sections/simple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple/</guid>
-      <description>Speak at an International conference.</description>
+      <description>Talk, discuss and work on everything that involves software testing, agile practices, DevOps and Automation.</description>
     </item>
     
     <item>
-      <title>How game websites can help you live a better life</title>
-      <link>/posts/game-websites/</link>
-      <pubDate>Wed, 19 Dec 2018 22:32:19 +0100</pubDate>
+      <title>Talks &amp; Conferences</title>
+      <link>/speaking_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/game-websites/</guid>
-      <description>How to cheat at dish reviews and get away with it. The 6 best dish review twitter feeds to follow. The best ways to utilize minute meals. The best ways to utilize safe food handling tips. The best ways to utilize safe food handling tips. 17 facts about food processors that will impress your friends. How cooking healthy food is making the world a better place. Why you&amp;rsquo;ll never succeed at healthy eating facts.</description>
+      <guid>/speaking_experience/</guid>
+      <description>1.) XCONF,Gurgaon,September 2016  Topic: Let&amp;rsquo;s implement test pyramid Speakers: Divya Rakhiani and Hanika Chauhan Talk summary: This was a 30 min lightning talk about implementing the test pyramid on a weather application. The goal of the talk was to advocate writing limited end to end tests as they are expensive and maintenance heavy.   2.) VodQa meetup,Gurgaon,May 2018  Topic: Test strategy with Micro services(Contract Testing and Service Virtualization) Speakers: Divya Rakhiani and Ishaan Madaan Talk summary : This was a 2-hour hands-on workshop to educate the participants about the concept of Contract testing using the tool PACT.</description>
     </item>
     
     <item>
-      <title>16 things that won&#39;t happen in free songs</title>
-      <link>/posts/16-things-free-songs/</link>
-      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
-      
-      <guid>/posts/16-things-free-songs/</guid>
-      <description>5 ways country song ringtones can make you rich. Why country music festivals will change your life. The unconventional guide to music notes. Why our world would end if music videos disappeared. 8 insane (but true) things about top country songs. How twitter can teach you about popular songs. 13 facts about latin music videos that&amp;rsquo;ll keep you up at night. Why do people think free dances are a good idea?</description>
-    </item>
-    
-    <item>
-      <title>If Halsey was a QA </title>
+      <title>If Halsey was a QA.... </title>
       <link>/posts/bad-architects/</link>
       <pubDate>Sun, 16 Dec 2018 22:34:04 +0100</pubDate>
       
       <guid>/posts/bad-architects/</guid>
-      <description>6 uses for living room decors. Why living room ideas are killing you. The oddest place you will find decorating ideas. Why the world would end without apartment guides. 12 things that won&amp;rsquo;t happen in interior design ideas. How twitter can teach you about bathroom designs. The 12 best floor plan youtube videos. 9 bs facts about living room decors everyone thinks are true. The only home builder resources you will ever need.</description>
-    </item>
-    
-    <item>
-      <title>Why preventative medicines are afraid of the truth</title>
-      <link>/posts/preventative-medicines/</link>
-      <pubDate>Fri, 07 Dec 2018 22:30:56 +0100</pubDate>
-      
-      <guid>/posts/preventative-medicines/</guid>
-      <description>Why vaccination schedules will change your life. How weight loss meal plans can help you live a better life. How not knowing fitness equipment makes you a rookie. The 18 best resources for fitness equipment. 9 problems with home health care products. 17 amazing health care provider picturesi. How nutrition facts make you a better lover. The oddest place you will find home health care products. The 15 best health question twitter feeds to follow.</description>
+      <description>I wrote a RAP song about QAing .. because why not ??
+click here to read</description>
     </item>
     
   </channel>

@@ -2,99 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73cd4e87-76a9-495a-8866-65e7b20d1a09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/images/Dockerworkshop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG-20181215-WA0004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/QAbootcamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Taiko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/XConf.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/puneML.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../categories/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contact/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../css/bundle.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/16-things-free-songs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/bad-architects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/bad-architects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/game-websites/images/DSC_0017.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/game-websites/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/preventative-medicines.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/sections/simple-choices.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/sections/simple-choices.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/sections/simple-people.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/sections/simple-people.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/sections/simple-values.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/sections/simple-values.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/sections/simple.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/sections/simple.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-terrassa-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-terrassa-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-terrassa-theme/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-terrassa-theme/exampleSite/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/avatar_man.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/avatar_woman.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/bg_head.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/gt_favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/guy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/mac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/sample_clients.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../images/undraw_freelancer_b0my.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/bundle.min.243a483d5297388ef2f4a1b2d5e5d30218e01e8a2dfe213a376ea24d130837c860762a23e9daaa68ae3a7bcd5a3869287a14dc3b738f10486cf4e8fb4291b478.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/html5shiv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/16-things-free-songs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/bad-architects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/game-websites/images/DSC_0017.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/game-websites/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/page/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../posts/preventative-medicines/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/simple-choices/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/simple-people/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/simple-values/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sections/simple/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/cooking/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/cooking/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/cooking/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/free/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/free/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/free/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/health/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/health/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/health/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/medicine/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/medicine/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/medicine/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/music/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/music/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/music/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/qa/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/qa/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/qa/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/softwareengineering/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/softwareengineering/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/softwareengineering/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/songs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/songs/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/songs/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/testing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/testing/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tags/testing/page/1/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +49,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="-138">
               <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
             </state>
           </provider>
@@ -264,7 +173,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+    <option name="x" value="56" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="826" />
@@ -301,6 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -334,15 +244,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571762641840</updated>
-      <workItem from="1571762643323" duration="10901000" />
+      <workItem from="1571762643323" duration="11509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10901000" />
+    <option name="totallyTimeSpent" value="11509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="79" width="1440" height="826" extended-state="0" />
+    <frame x="56" y="23" width="1440" height="826" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -351,11 +261,11 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.29564032" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6021798" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -503,7 +413,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="-138">
           <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
         </state>
       </provider>

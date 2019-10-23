@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +13,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
   </url>
   
   <url>
@@ -21,11 +21,11 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/sections/simple-people/</loc>
   </url>
   
   <url>
-    <loc>/sections/simple-people/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
@@ -37,43 +37,7 @@
   </url>
   
   <url>
-    <loc>/tags/cooking/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/health/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/game-websites/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/16-things-free-songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/free/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/music/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <loc>/speaking_experience/</loc>
   </url>
   
   <url>
@@ -92,18 +56,13 @@
   </url>
   
   <url>
-    <loc>/tags/testing/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-12-16T22:34:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/medicine/</loc>
-    <lastmod>2018-12-07T22:30:56+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/preventative-medicines/</loc>
-    <lastmod>2018-12-07T22:30:56+01:00</lastmod>
+    <loc>/tags/testing/</loc>
+    <lastmod>2018-12-16T22:34:04+01:00</lastmod>
   </url>
   
   <url>

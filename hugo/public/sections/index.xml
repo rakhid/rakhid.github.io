@@ -10,12 +10,14 @@
     
     
     <item>
-      <title>WHO IS DIVYA!</title>
+      <title>WHO AM I ?</title>
       <link>/sections/simple-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-values/</guid>
-      <description>Divya Rakhiani has more than 8 years of experience in Quality Assurance working in a startup like Beanworks, Service companies like Infosys and Thoughtworks and Product companies like Dell EMC. She currently heads the Quality Engineering department at a startup called Beanworks that specializes in automating the tedious and paper-heavy accounting process. It’s rated the 13th best startup in the Vancouver tech market. Divya sees herself today as a new immigrant to Canada and is building her career helping QA teams to use technologies like UI automation using cypress/selenium, test stabilization pipelines, and CI/CD for each code deployment.</description>
+      <description>Divya is an Agile enthusiast, technical tester and a teacher at heart!
+1.) Inception expert – Divya can facilitate workshops to help build product canvas by defining user journeys and personas. She has experience collaborating with UX Designers, Developers and Business Analysts on such workshops.
+2.) Industry Experience – Divya is a Tester with 8+ years of industry experience working in an Agile environment. She has hands-on experience in all stages of software testing life cycle from the White box, Black box, Automation testing to Regression and Usability testing.</description>
     </item>
     
     <item>
@@ -24,43 +26,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-choices/</guid>
-      <description>#BeanWorks July 2019 -Present
-#ThoughtWorks August 2016 - June 2019
-#Dell EMC November 2013 - August 2016
-#Infosys October 2011 - October 2013</description>
+      <description> BEANWORKS , Senior Lead QA Engineer July 2019 -Present THOUGHTWORKS , Senior Consultant August 2016 - June 2019 DELL EMC , Software Quality Engineer November 2013 - August 2016 INFOSYS , Systems Engineer October 2011 - October 2013 </description>
     </item>
     
     <item>
-      <title>SPEAKING EXPERIENCE</title>
+      <title></title>
       <link>/sections/simple-people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-people/</guid>
-      <description>#XCONF September 2016
-Topic: Let&amp;rsquo;s implement test pyramid
-Speakers: Divya Rakhiani and Hanika Chauhan
-Talk summary :
-#VodQa,Gurgaon,May 2018
-Topic: Test strategy with Micro services
-Speakers: Divya Rakhiani and Ishaan Madaan
-Talk summary :
-#WomenInTechnology meetup,Gurgaon,December 2018
-Topic: Introduction to Docker in Microservices and Deployment in cloud
-Speakers: Divya Rakhiani and Juhi Jariwala
-Talk summary :
-#VodQa,Gurgaon,March 2019
-Topic: UI automation using Taiko
-Speakers: Divya Rakhiani and Paramjeet Singh
-Talk summary :</description>
+      <description></description>
     </item>
     
     <item>
-      <title>WHAT I WISH TO DO!</title>
+      <title>WHAT I WISH TO DO?</title>
       <link>/sections/simple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple/</guid>
-      <description>Speak at an International conference.</description>
+      <description>Talk, discuss and work on everything that involves software testing, agile practices, DevOps and Automation.</description>
     </item>
     
   </channel>
