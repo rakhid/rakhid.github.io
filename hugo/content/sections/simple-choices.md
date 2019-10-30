@@ -1,19 +1,36 @@
 ---
-title : "WORK EXPERIENCE"
+title : "Skills Overview"
 description: ""
 draft: false
 weight: 2
 ---
 
-### **BEANWORKS** , _Senior Lead QA Engineer_ 
-#### July 2019 -Present
+1) **Automation:** 
 
-### **THOUGHTWORKS** , _Senior Consultant_
-#### August 2016 - June 2019
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>Front-end</u>: Selenium(Java) For web apps,Cypress and Taiko
 
-### **DELL EMC** , _Software Quality Engineer_
-#### November 2013 - August 2016
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>API Testing</u>: Postman,Rest Assured
 
-### **INFOSYS** , _Systems Engineer_
-#### October 2011 - October 2013
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>Performance</u>: Jmeter,Gatling
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>Mobile</u>: Calabash(ruby), Appium
+ </br>
+ 
+2) **Knowledge on CI/CD:** Jenkins,GoCD
+
+3) **Source code management:** Git
+
+4) **Architectural styles:** Microservices,Monolithic
+
+5) **Virtualization:**  Containers (Docker)
+
+6) **Test Approaches:** </br>
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>BDD</u>: Cucumber </br>
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-<u>TDD</u>: Junit , TestNG </br>
+
+7) **Test Methodologies:**  Agile (Scrum and Kanban)
+
+
 

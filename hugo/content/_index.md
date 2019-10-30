@@ -8,4 +8,4 @@ weight: 1
 ---
 
 # DIVYA RAKHIANI
-## QA.Automation Engineer.Consultant
+## Full Stack QA. Quality Consultant.

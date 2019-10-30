@@ -29,8 +29,8 @@ theme = "hugo-terrassa-theme"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
-    netlify = true
-    action = "https://formspree.io/mpvblenm"
+    netlify = false
+    action = "https://script.google.com/macros/s/AKfycbzXXs7yCl6OHhb6lJRfvi9xDXckjrIIQFIQiMQUqqpQXKeZml4/exec"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"
@@ -50,10 +50,10 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "rakhiani.d@gmail.com"
-    phone = "+1 (778) 814 7120"
-    skype = "Divya.rakhiani1"
-    address = "Vancouver"
+    email = ""
+    phone = ""
+    skype = ""
+    address = "Vancouver,Canada"
 
 [params.social]
    

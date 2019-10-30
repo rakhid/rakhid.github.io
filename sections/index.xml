@@ -16,17 +16,29 @@
       
       <guid>/sections/simple-values/</guid>
       <description>Divya is an Agile enthusiast, technical tester and a teacher at heart!
-1.) Inception expert – Divya can facilitate workshops to help build product canvas by defining user journeys and personas. She has experience collaborating with UX Designers, Developers and Business Analysts on such workshops.
-2.) Industry Experience – Divya is a Tester with 8+ years of industry experience working in an Agile environment. She has hands-on experience in all stages of software testing life cycle from the White box, Black box, Automation testing to Regression and Usability testing.</description>
+1) Inception expert – Divya can facilitate workshops to help build product canvas by defining user journeys and personas. She has experience collaborating with UX Designers, Developers and Business Analysts on such workshops.
+2) Industry Experience – Divya is a Tester with 8+ years of industry experience working in an Agile environment. She has hands-on experience in all stages of software testing life cycle from the White box, Black box, Automation testing to Regression and Usability testing.</description>
     </item>
     
     <item>
-      <title>WORK EXPERIENCE</title>
+      <title>Skills Overview</title>
       <link>/sections/simple-choices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple-choices/</guid>
-      <description> BEANWORKS , Senior Lead QA Engineer July 2019 -Present THOUGHTWORKS , Senior Consultant August 2016 - June 2019 DELL EMC , Software Quality Engineer November 2013 - August 2016 INFOSYS , Systems Engineer October 2011 - October 2013 </description>
+      <description>1) Automation:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-Front-end: Selenium(Java) For web apps,Cypress and Taiko
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-API Testing: Postman,Rest Assured
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-Performance: Jmeter,Gatling
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-Mobile: Calabash(ruby), Appium 
+2) Knowledge on CI/CD: Jenkins,GoCD
+3) Source code management: Git
+4) Architectural styles: Microservices,Monolithic
+5) Virtualization: Containers (Docker)
+6) Test Approaches: 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-BDD: Cucumber 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-TDD: Junit , TestNG 
+7) Test Methodologies: Agile (Scrum and Kanban)</description>
     </item>
     
     <item>
@@ -39,12 +51,12 @@
     </item>
     
     <item>
-      <title>WHAT I WISH TO DO?</title>
+      <title></title>
       <link>/sections/simple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/simple/</guid>
-      <description>Talk, discuss and work on everything that involves software testing, agile practices, DevOps and Automation.</description>
+      <description></description>
     </item>
     
   </channel>
